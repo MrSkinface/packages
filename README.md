@@ -1,1 +1,1 @@
-# Maven artifacts repository
+# Maven/Docker artifacts registry
