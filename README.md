@@ -1,2 +1,1 @@
-# packages
-maven artifact packages
+# Maven artifacts repository
